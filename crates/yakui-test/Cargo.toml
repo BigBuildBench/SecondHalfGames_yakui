@@ -1,0 +1,11 @@
+[package]
+name = "yakui-test"
+description = "Testing utilities for yakui widgets"
+publish = false
+version = "0.0.0"
+edition = "2021"
+
+[features]
+images = ["yakui-to-image"]
+
+[dependencies]

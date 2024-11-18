@@ -1,0 +1,10 @@
+[package]
+name = "bootstrap"
+publish = false
+version = "0.1.0"
+edition = "2021"
+
+[features]
+profile = ["profiling/profile-with-tracy", "tracy-client"]
+
+[dependencies]

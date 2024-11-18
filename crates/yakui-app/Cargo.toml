@@ -1,0 +1,12 @@
+[package]
+name = "yakui-app"
+description = "Wrapper crate for yakui, a UI library for games"
+publish = false
+version = "0.0.0"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/LPGhatguy/yakui"
+edition = "2021"
+
+[features]
+
+[dependencies]
